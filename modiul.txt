@@ -1,1 +1,1 @@
-pp_draw_py:  draw in terminal
+pp_draw:  draw in terminal: ####### {from pp_draw.main import draw \n draw(n=5, shape_type="7", char="Z")}shape_type=1-6
